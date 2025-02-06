@@ -70,7 +70,6 @@ You will be redirected to this page: ![image](https://github.com/Manish-k723/Hea
 
 And after login, you will find this page: ![image](https://github.com/Manish-k723/Healthify/assets/109733755/cdfa4498-1557-4684-8b03-e07ec16a2417)
 
-You can also go to this demo video: [Demo Video](https://drive.google.com/file/d/1Z3nZIRoC_2T2CPBpdPCfcCtdT5hLzgPs/view?usp=sharing)
 
 ## Highlight Features
 
